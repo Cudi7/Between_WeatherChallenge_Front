@@ -1,15 +1,7 @@
 ## How to use
 
-lorem ipsum
-
-## The idea behind the example
-
-lorem ipsum
-
-## The link component
-
-lorem ipsum
+clonar o descargar proyecto, hacer cd en carpertar e instalar dependencias con npm install y ejecutar en desarollo con npm run dev (primero hacer los mismos pasos con el backend para que funcione el servidor)
 
 ## What's next?
 
-lorem ipsum
+Mejorar y optimizar la app en múltiples aspectos
